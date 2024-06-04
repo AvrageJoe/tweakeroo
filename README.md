@@ -32,9 +32,9 @@
 ></details>
 ***
 
+## Wiki 
 
-## Configuration
-[<img src="https://imgur.com/QmtLw07.png" alt="drawing" height="40" align="middle"/>](generic) [<img src="https://imgur.com/BhNV2iv.png" alt="drawing" height="40" align="middle"/>](fixes) [<img src="https://imgur.com/enZFRCi.png" alt="drawing" height="40" align="middle"/>](lists) [<img src="https://imgur.com/wqeThLe.png" alt="drawing" height="40" align="middle"/>](tweaks) [<img src="https://imgur.com/xLKmPg0.png" alt="drawing" height="40" align="middle"/>](hotkeys) [<img src="https://imgur.com/m4SsIza.png" alt="drawing" height="40" align="middle"/>](yeets)
+Check out the wiki [here](../../../wiki)
 
 ***
 
@@ -73,8 +73,8 @@ If you have questions or need help, the best and fastest way to get answers is o
 \
 <a href="https://discord.com/invite/2FgywHj"> <img src="https://i.imgur.com/0XvKswp.png" alt="drawing" width="400"/>![]()
 
-Compiling
-=========
+## Compiling
+
 * Clone the repository
 * Open a command prompt/terminal to the repository directory
 * run 'gradlew build'
